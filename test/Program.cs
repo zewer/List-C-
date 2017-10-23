@@ -66,7 +66,7 @@ namespace Shop
             petshop.AddPet(new Cat("Mura", "Home"));
             petshop.AddPet(new Dog("Bim", "Jef"));
             petshop.IntroduceAll();
-            Console.ReadLine();
+            Console.WriteLine("\n\nHello, GitHub!");
         }
     }
 }
